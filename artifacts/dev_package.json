@@ -7,7 +7,7 @@
 	},
 	"name": "issue-3183",
 	"description": null,
-	"ver": "24.10.22.1224",
+	"ver": "24.10.22.1225",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"excludeTemplateFiles": false,
